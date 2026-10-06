@@ -1,0 +1,7 @@
+Subject: Access request {request_id} — {status}
+Hello {recipient},
+Assessment: {assessment}
+Required information: {missing_information}
+Next action: {next_action}
+Regards,
+Service Desk

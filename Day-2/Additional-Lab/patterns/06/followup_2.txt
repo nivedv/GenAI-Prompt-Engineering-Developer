@@ -1,0 +1,1 @@
+REVISION stage: Revise the draft using only supported feedback and original evidence. Return corrected draft under 120 words and a compact change log. Add no new policy or promises. If feedback is unsupported, do not implement it. Stop after this revision.

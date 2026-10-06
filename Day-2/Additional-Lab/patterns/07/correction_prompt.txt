@@ -1,0 +1,1 @@
+Edit the original draft using supplied policy, request and the human-verified defect list. Return a corrected message under 120 words and a defect-ID disposition table. Preserve correct facts. Do not grant approval, share accounts or promise provisioning. If a verified defect cannot be resolved from the supplied facts, state the missing information instead of inventing it.

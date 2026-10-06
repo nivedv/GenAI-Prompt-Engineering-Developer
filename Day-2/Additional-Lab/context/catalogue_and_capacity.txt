@@ -1,0 +1,7 @@
+SYNTHETIC FACT SNAPSHOT
+FlowBoard: catalogue app; €12/named user/month; 2 unused licences.
+BrightTasks: non-catalogue app; price and availability unknown; no security review supplied.
+Internal tracker: existing workflow; no new accounts needed; non-sensitive tasks only.
+Three users would represent €36/month at the stated FlowBoard rate, but only
+2 licences exist now. This arithmetic is not a purchase or approval record.
+No real inventory system or API is connected.

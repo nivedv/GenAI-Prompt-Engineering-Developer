@@ -1,0 +1,1 @@
+Produce an internal service-adviser version of the same email template. Preserve all facts, constraints and labels; use operational wording without inventing outcomes.

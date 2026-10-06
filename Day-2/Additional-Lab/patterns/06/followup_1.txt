@@ -1,0 +1,1 @@
+FEEDBACK stage: Evaluate the draft against supplied policy and request. List each factual error, missing prerequisite, unsupported promise and clarity issue with its exact sentence and clause/fact. Preserve correct statements. Do not rewrite yet. Do not provide internal reasoning.

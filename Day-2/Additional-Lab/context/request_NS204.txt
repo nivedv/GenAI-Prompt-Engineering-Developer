@@ -1,0 +1,4 @@
+Request NS-204: Three new team members need task tracking by tomorrow.
+They request FlowBoard. Their tasks contain only non-sensitive internal data.
+Written manager approval has not been provided. Only two FlowBoard licences
+are available. No IT provisioning has occurred.

@@ -1,0 +1,1 @@
+Stage 2: Evaluate the generated options using the policy. Return option, hard constraints, supplied supporting facts and status (feasible_as_temporary_workflow, conditional, or blocked). Reject any branch violating a hard constraint; do not invent cost or completion scores.
