@@ -1,0 +1,14 @@
+[
+  {
+    "id": "H1",
+    "request": "Order AX-71 arrived on 2026-10-01. Today is 2026-10-06 and I am reporting damage. Photographs are available."
+  },
+  {
+    "id": "H2",
+    "request": "The shipment is damaged. Please replace it now."
+  },
+  {
+    "id": "H3",
+    "request": "Order AX-72 arrived on 2026-09-30. I am reporting damage on 2026-10-06. Photos are available. Please confirm replacement today."
+  }
+]

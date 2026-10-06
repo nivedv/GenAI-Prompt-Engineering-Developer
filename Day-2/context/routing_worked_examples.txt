@@ -1,0 +1,7 @@
+TRAINING EXAMPLES — not held-out test answers
+Input: I am reporting damage for the first time. Two sensors arrived broken.
+Output: Damage report
+Input: For my existing damage case, here are the photos you requested.
+Output: Evidence follow-up
+Input: Please help with my sensors.
+Output: Needs clarification

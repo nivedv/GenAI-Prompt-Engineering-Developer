@@ -1,0 +1,8 @@
+SYNTHETIC ORDER REGISTER — training records
+Order AX-41: Delta Automation; 4 temperature sensors; delivered 2026-10-05.
+Order AX-42: Orion Controls; 6 proximity sensors; delivered 2026-09-28.
+Order AX-43: Vertex Systems; 2 vibration sensors; delivery date not recorded.
+No approval or replacement authorisation is recorded for these orders.
+Use only records relevant to the request. Keep customer claims distinct from
+order facts if dates conflict; ask for reconciliation rather than silently
+choosing a date. These are optional context for the code extension only.

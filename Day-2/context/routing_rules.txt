@@ -1,0 +1,8 @@
+SYNTHETIC SUPPORT ROUTING RULES
+Damage report: first notification of damage or request to open a damage case.
+Evidence follow-up: explicitly updates an existing damage case with requested
+photos, order information or dates.
+Needs clarification: the request stage is unknown or both stages appear.
+These labels concern workflow stage, not whether replacement is eligible.
+Missing dates do not automatically change a clear first report to Needs clarification.
+Return exactly one of the three labels; use the rules, not keyword matching.

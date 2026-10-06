@@ -1,0 +1,14 @@
+[
+  {
+    "id": "R1",
+    "request": "This is my first damage report. Please open a case for three broken sensors."
+  },
+  {
+    "id": "R2",
+    "request": "For the damage case opened yesterday, I am sending the requested order ID AX-99."
+  },
+  {
+    "id": "R3",
+    "request": "Open a new damage case and also add photos to my older damage case."
+  }
+]

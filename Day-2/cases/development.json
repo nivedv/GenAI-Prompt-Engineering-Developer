@@ -1,0 +1,14 @@
+[
+  {
+    "id": "D1",
+    "request": "Two sensors arrived damaged yesterday. Can you replace them? Report date: 2026-10-06."
+  },
+  {
+    "id": "D2",
+    "request": "Order AX-41 arrived on 2026-10-05. I am reporting damage on 2026-10-06. Two sensors are damaged. I can provide photographs."
+  },
+  {
+    "id": "D3",
+    "request": "Order AX-42 was delivered on 2026-09-28. I am reporting damage on 2026-10-06 and have photographs. Please replace the sensors."
+  }
+]

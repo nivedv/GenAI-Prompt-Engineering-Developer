@@ -1,0 +1,16 @@
+SYNTHETIC TRAINING DOCUMENT — Aster Industrial Supplies
+Damaged Delivery Policy DD-2026 v1.0
+Not a real company policy. All people, orders and incidents are fictional.
+C1: Customer must report damage within 5 calendar days of delivery.
+C2: Request the order ID and photographs of the damaged goods.
+C3: A service reviewer authorises replacement after evidence review.
+C4: If delivery or report dates are missing, clarify before assessing timing.
+
+Exercise convention for C1: elapsed days = report date minus delivery date.
+Delivery day is day 0. An elapsed value of 5 is within the reporting window;
+an elapsed value of 6 or more is outside it. This convention supplements the
+short slide policy solely to make boundary testing unambiguous.
+There is no supplied refund policy, warranty rule, late-report exception,
+replacement approval record, stock availability or shipment date. Do not
+invent these. Outside-window cases can be referred to a service reviewer;
+referral does not promise a waiver, replacement or a refund.
